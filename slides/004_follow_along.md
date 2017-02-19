@@ -1,0 +1,11 @@
+# Follow along
+* Workshop material (https://github.com/davehunt/selenium-python-workshop)
+* Python 3.6 (https://www.python.org/downloads/)
+* flake8, PyPOM, pytest, pytest-selenium, pytest-xdist, tox, cookiecutter (pip install ...)
+* Firefox (http://getfirefox.org)
+* GeckoDriver (https://github.com/mozilla/geckodriver)
+* The Internet (http://the-internet.herokuapp.com/)
+* Java Runtime Environment (https://java.com/en/download/)
+* Selenium standalone server (http://www.seleniumhq.org/download/)
+* Docker (https://www.docker.com/products/overview)
+* Git (https://git-scm.com/downloads)
